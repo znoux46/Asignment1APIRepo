@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|f:\\product_management-main\\product_management-main\\products_management\\products_management\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|solutionrelative:products_management\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|f:\\product_management-main\\product_management-main\\products_management\\products_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|solutionrelative:products_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|f:\\product_management-main\\product_management-main\\products_management\\products_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|solutionrelative:products_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|f:\\product_management-main\\product_management-main\\products_management\\products_management\\products_management.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|solutionrelative:products_management\\products_management.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|f:\\product_management-main\\product_management-main\\products_management\\products_management\\products_management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|solutionrelative:products_management\\products_management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|f:\\product_management-main\\product_management-main\\products_management\\products_management\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|solutionrelative:products_management\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|f:\\product_management-main\\product_management-main\\products_management\\products_management\\api\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|solutionrelative:products_management\\api\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|f:\\product_management-main\\product_management-main\\products_management\\products_management\\api\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|solutionrelative:products_management\\api\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|f:\\product_management-main\\product_management-main\\products_management\\products_management\\api\\entityrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|solutionrelative:products_management\\api\\entityrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|f:\\product_management-main\\product_management-main\\products_management\\products_management\\api\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|solutionrelative:products_management\\api\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|f:\\product_management-main\\product_management-main\\products_management\\products_management\\api\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|solutionrelative:products_management\\api\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|f:\\product_management-main\\product_management-main\\products_management\\products_management\\api\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|solutionrelative:products_management\\api\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|f:\\product_management-main\\product_management-main\\products_management\\products_management\\api\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|solutionrelative:products_management\\api\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|f:\\product_management-main\\product_management-main\\products_management\\products_management\\api\\cloudinarysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|solutionrelative:products_management\\api\\cloudinarysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|f:\\product_management-main\\product_management-main\\products_management\\products_management\\api\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|solutionrelative:products_management\\api\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|f:\\product_management-main\\product_management-main\\products_management\\products_management\\api\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7674BD35-0932-4B5F-AD34-25651A3814A3}|Products_Management\\Products_Management.csproj|solutionrelative:products_management\\api\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 307,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Products_Management.http",
+              "DocumentMoniker": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\Products_Management.http",
+              "RelativeDocumentMoniker": "Products_Management\\Products_Management.http",
+              "ToolTip": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\Products_Management.http",
+              "RelativeToolTip": "Products_Management\\Products_Management.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-03T11:31:18.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Service.cs",
+              "DocumentMoniker": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\API\\Service.cs",
+              "RelativeDocumentMoniker": "Products_Management\\API\\Service.cs",
+              "ToolTip": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\API\\Service.cs",
+              "RelativeToolTip": "Products_Management\\API\\Service.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAqwGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T09:27:40.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\Program.cs",
+              "RelativeDocumentMoniker": "Products_Management\\Program.cs",
+              "ToolTip": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\Program.cs",
+              "RelativeToolTip": "Products_Management\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T09:28:50.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Request.cs",
+              "DocumentMoniker": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\API\\Request.cs",
+              "RelativeDocumentMoniker": "Products_Management\\API\\Request.cs",
+              "ToolTip": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\API\\Request.cs",
+              "RelativeToolTip": "Products_Management\\API\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T09:27:28.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\appsettings.json",
+              "RelativeDocumentMoniker": "Products_Management\\appsettings.json",
+              "ToolTip": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\appsettings.json",
+              "RelativeToolTip": "Products_Management\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-23T07:29:10.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EntityRequestValidator.cs",
+              "DocumentMoniker": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\API\\EntityRequestValidator.cs",
+              "RelativeDocumentMoniker": "Products_Management\\API\\EntityRequestValidator.cs",
+              "ToolTip": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\API\\EntityRequestValidator.cs",
+              "RelativeToolTip": "Products_Management\\API\\EntityRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T17:17:48.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Products_Management\\appsettings.Development.json",
+              "ToolTip": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\appsettings.Development.json",
+              "RelativeToolTip": "Products_Management\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-22T09:20:56.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAPkUAAAAAAAAAAAQwBIVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-10-03T11:32:41.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\API\\Repository.cs",
+              "RelativeDocumentMoniker": "Products_Management\\API\\Repository.cs",
+              "ToolTip": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\API\\Repository.cs",
+              "RelativeToolTip": "Products_Management\\API\\Repository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwDEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T09:18:01.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\API\\Configuration.cs",
+              "RelativeDocumentMoniker": "Products_Management\\API\\Configuration.cs",
+              "ToolTip": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\API\\Configuration.cs",
+              "RelativeToolTip": "Products_Management\\API\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T09:17:59.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Products_Management.csproj",
+              "DocumentMoniker": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\Products_Management.csproj",
+              "RelativeDocumentMoniker": "Products_Management\\Products_Management.csproj",
+              "ToolTip": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\Products_Management.csproj",
+              "RelativeToolTip": "Products_Management\\Products_Management.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-23T09:33:15.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Products_Management\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Products_Management\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-03T10:37:13.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\API\\Entity.cs",
+              "RelativeDocumentMoniker": "Products_Management\\API\\Entity.cs",
+              "ToolTip": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\API\\Entity.cs",
+              "RelativeToolTip": "Products_Management\\API\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T09:27:18.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\API\\Controller.cs",
+              "RelativeDocumentMoniker": "Products_Management\\API\\Controller.cs",
+              "ToolTip": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\API\\Controller.cs",
+              "RelativeToolTip": "Products_Management\\API\\Controller.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T09:27:09.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Response.cs",
+              "DocumentMoniker": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\API\\Response.cs",
+              "RelativeDocumentMoniker": "Products_Management\\API\\Response.cs",
+              "ToolTip": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\API\\Response.cs",
+              "RelativeToolTip": "Products_Management\\API\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T09:27:34.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CloudinarySettings.cs",
+              "DocumentMoniker": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\API\\CloudinarySettings.cs",
+              "RelativeDocumentMoniker": "Products_Management\\API\\CloudinarySettings.cs",
+              "ToolTip": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\API\\CloudinarySettings.cs",
+              "RelativeToolTip": "Products_Management\\API\\CloudinarySettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T08:06:45.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\API\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Products_Management\\API\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\Product_Management-main\\Product_Management-main\\Products_Management\\Products_Management\\API\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Products_Management\\API\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T09:17:58.394Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
