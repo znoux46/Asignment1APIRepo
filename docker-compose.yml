@@ -1,0 +1,44 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: products_management
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  backend:
+    build:
+      context: ./Products_Management
+      dockerfile: Dockerfile
+    ports:
+      - "5218:5218"
+    environment:
+      - CONNECTION_STRING_FROM_ENV=Host=postgres;Database=products_management;Username=postgres;Password=postgres
+      - JWT_SECRET_FROM_ENV=your-super-secret-jwt-key-change-in-production
+      - CLOUDINARY_CLOUD_NAME=your-cloudinary-cloud-name
+      - CLOUDINARY_API_KEY=your-cloudinary-api-key
+      - CLOUDINARY_API_SECRET=your-cloudinary-api-secret
+    depends_on:
+      - postgres
+    volumes:
+      - ./Products_Management:/app
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_BASE_URL=http://localhost:5218
+    depends_on:
+      - backend
+
+volumes:
+  postgres_data:
